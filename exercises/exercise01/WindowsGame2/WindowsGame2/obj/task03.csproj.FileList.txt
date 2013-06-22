@@ -1,0 +1,11 @@
+bin\x86\Debug\Content\sprite.xnb
+bin\x86\Debug\Content\anisprite.xnb
+bin\x86\Debug\Content\comic.xnb
+bin\x86\Debug\Content\sprite.png
+bin\x86\Debug\WindowsGame2.exe
+bin\x86\Debug\WindowsGame2.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+obj\x86\Debug\WindowsGame2.exe
+obj\x86\Debug\WindowsGame2.pdb
+obj\x86\Debug\task03.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt

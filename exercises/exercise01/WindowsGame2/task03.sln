@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task03", "WindowsGame2\task03.csproj", "{9A0B70CA-C1E5-484F-8A11-AD9E0A00BD67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0B70CA-C1E5-484F-8A11-AD9E0A00BD67}.Debug|x86.ActiveCfg = Debug|x86
+		{9A0B70CA-C1E5-484F-8A11-AD9E0A00BD67}.Debug|x86.Build.0 = Debug|x86
+		{9A0B70CA-C1E5-484F-8A11-AD9E0A00BD67}.Release|x86.ActiveCfg = Release|x86
+		{9A0B70CA-C1E5-484F-8A11-AD9E0A00BD67}.Release|x86.Build.0 = Release|x86
+		{77544285-556C-4DCE-94CC-0500A9B435EB}.Debug|x86.ActiveCfg = Debug|x86
+		{77544285-556C-4DCE-94CC-0500A9B435EB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

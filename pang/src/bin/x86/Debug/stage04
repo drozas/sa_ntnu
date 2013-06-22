@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <section name="stage">
+    <entry name="balls01">0</entry>
+    <entry name="balls02">4</entry>
+    <entry name="balls03">0</entry>
+  </section>
+</profile>

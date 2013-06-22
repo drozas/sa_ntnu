@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <section name="score">
+    <entry name="totalNumber">5</entry>
+    <entry name="score0">10000</entry>
+    <entry name="name0">pepe</entry>
+    <entry name="score1">5000</entry>
+    <entry name="name1">MGH</entry>
+    <entry name="score2">3000</entry>
+    <entry name="name2">MGH</entry>
+    <entry name="score3">2000</entry>
+    <entry name="name3">MGH</entry>
+    <entry name="score4">500</entry>
+    <entry name="name4">JLI</entry>
+  </section>
+</profile>

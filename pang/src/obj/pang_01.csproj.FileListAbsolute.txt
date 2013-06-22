@@ -1,0 +1,122 @@
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\obj\x86\Debug\pang_01.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\pang_01.exe
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\pang_01.pdb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\obj\x86\Debug\pang_01.exe
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\obj\x86\Debug\pang_01.pdb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\character.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\stage01.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\stage02.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\ball1.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\ball2.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\ball3.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\shot.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\Arial.xnb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\AMS.Profile.dll
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\AMS.Profile.xml
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\AudioProject.xgs
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\Wave Bank.xwb
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\bin\x86\Debug\Content\Sound Bank.xsb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\character.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\stage01.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\stage02.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\ball1.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\ball2.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\ball3.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\shot.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\Arial.xnb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\AudioProject.xgs
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\Wave Bank.xwb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\Content\Sound Bank.xsb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\pang_01.exe
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\pang_01.pdb
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\bin\x86\Debug\AMS.Profile.xml
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\obj\x86\Debug\pang_01.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\obj\x86\Debug\pang_01.exe
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\obj\x86\Debug\pang_01.pdb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\character.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\stage01.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\stage02.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\ball1.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\ball2.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\ball3.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\shot.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\AudioProject.xgs
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\pang_01.exe
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\pang_01.pdb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\AMS.Profile.xml
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\obj\x86\Debug\pang_01.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\obj\x86\Debug\pang_01.exe
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\obj\x86\Debug\pang_01.pdb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\bin\x86\Debug\Content\Consolas.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\stage01.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\stage02.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\ball1.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\ball2.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\ball3.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\shot.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\character.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\Consolas.xnb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\AudioProject.xgs
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\pang_01.exe
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\pang_01.pdb
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\bin\x86\Debug\AMS.Profile.xml
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\obj\x86\Debug\pang_01.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\obj\x86\Debug\pang_01.exe
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\obj\x86\Debug\pang_01.pdb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\stage01.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\stage02.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\ball1.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\ball2.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\ball3.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\shot.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\character.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\Arial.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\Consolas.xnb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\AudioProject.xgs
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\Wave Bank.xwb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\Content\Sound Bank.xsb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\pang_01.exe
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\pang_01.pdb
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\bin\x86\Debug\AMS.Profile.xml
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\obj\x86\Debug\pang_01.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\obj\x86\Debug\pang_01.exe
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\obj\x86\Debug\pang_01.pdb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\stage01.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\stage02.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\ball1.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\ball2.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\ball3.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\shot.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\character.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\Arial.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\Consolas.xnb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\AudioProject.xgs
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\Wave Bank.xwb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\Content\Sound Bank.xsb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\pang_01.exe
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\pang_01.pdb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\bin\x86\Debug\AMS.Profile.xml
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Debug\pang_01.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Debug\pang_01.exe
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Debug\pang_01.pdb
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Release\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\obj\x86\Release\pang_01.obj.x86.Release.Microsoft.Xna.Framework.RuntimeProfile.txt

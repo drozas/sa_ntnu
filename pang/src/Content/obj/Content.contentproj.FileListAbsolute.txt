@@ -1,0 +1,14 @@
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DOCENCIA\SPRING\SA\pang\pang_01\pang_01\Content\obj\x86\Debug\AudioProject.xml
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_160408_At_20_18\pang_01\pang_01\Content\obj\x86\Debug\AudioProject.xml
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_170408\pang_01\Content\obj\x86\Debug\AudioProject.xml
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marius\Mine dokumenter\Skole\Vår 2008\TDT4240 - Programvarearkitektur\Prosjekt\Pang\pang_180408\pang_01\Content\obj\x86\Debug\AudioProject.xml
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_180408\pang_180408\pang_01\Content\obj\x86\Debug\AudioProject.xml
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\Content\obj\x86\Debug\AudioProject.xml
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\skole\progark\Project\pang_18_04_2008_\pang_01\Content\obj\x86\Release\AudioProject.xml
